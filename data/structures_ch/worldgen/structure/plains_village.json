@@ -1,9 +1,9 @@
 {
     "type": "minecraft:jigsaw",
-    "start_pool": "structures_ch:hui_village/center",
+    "start_pool": "structures_ch:plains_village/center",
     "size": 7,
     "max_distance_from_center": 116,
-    "biomes": "#structures_ch:has_structure/hui_village",
+    "biomes": "#structures_ch:has_structure/plains_village",
     "step": "surface_structures",
     "start_height": {
       "absolute": 1
