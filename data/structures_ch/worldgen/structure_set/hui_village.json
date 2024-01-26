@@ -1,0 +1,14 @@
+{
+    "structures": [
+      {
+        "structure": "structures_ch:hui_village",
+        "weight": 1
+      }
+    ],
+    "placement": {
+      "salt": 183253140,
+      "type": "minecraft:random_spread",
+      "spacing": 30,
+      "separation": 2
+    }
+  }
