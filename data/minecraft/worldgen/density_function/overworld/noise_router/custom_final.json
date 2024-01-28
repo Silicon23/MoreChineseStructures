@@ -6,7 +6,7 @@
     "when_in_range": {
         "type": "range_choice",
         "input": "minecraft:overworld/continents",
-        "min_inclusive": -0.110,
+        "min_inclusive": -0.190,
         "max_exclusive": 1.0001,
         "when_in_range": {
             "type": "range_choice",
@@ -20,7 +20,36 @@
                 "from_value": 1.0,
                 "to_value": -1.0
             },
-            "when_out_of_range": "minecraft:overworld/noise_router/vanilla_final"
+            "when_out_of_range": {
+                "type": "range_choice",
+                "input": "minecraft:overworld/erosion",
+                "min_inclusive": 0.05,
+                "max_exclusive": 2.52,
+                "when_in_range": {
+                    "type": "add",
+                    "argument1": {
+                        "type": "mul",
+                        "argument1": "structures_ch:clamped_final",
+                        "argument2": {
+                            "type": "add",
+                            "argument1": 0.45,
+                            "argument2": {
+                                "type": "mul",
+                                "argument1": "minecraft:overworld/erosion",
+                                "argument2": -1.0
+                            }
+                        }
+                    },
+                    "argument2": {
+                        "type": "y_clamped_gradient",
+                        "from_y": -7,
+                        "from_value": 5.0,
+                        "to_y": 133,
+                        "to_value": -5.0
+                    }
+                },
+                "when_out_of_range": "minecraft:overworld/noise_router/vanilla_final"
+            }
         },
         "when_out_of_range": "minecraft:overworld/noise_router/vanilla_final"
     },
