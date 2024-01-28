@@ -2,6 +2,7 @@
       "type": "minecraft:min",
       "argument1": {
         "type": "minecraft:squeeze",
+    "type": "minecraft:squeeze",
         "argument": {
           "type": "minecraft:mul",
           "argument1": 0.64,

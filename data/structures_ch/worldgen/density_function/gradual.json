@@ -1,0 +1,10 @@
+{
+    "type": "cube",
+    "argument": {
+        "type": "y_clamped_gradient",
+        "from_y": -7,
+        "from_value": 2.0,
+        "to_y": 133,
+        "to_value": -2.0
+    }
+}
