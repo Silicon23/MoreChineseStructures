@@ -6,7 +6,7 @@
       "spacing": 34,
       "exclusion_zone": {
         "chunk_count": 5,
-        "other_set": "structures_ch:plains_village"
+        "other_set": "mcs:villages"
       }
     },
     "structures": [

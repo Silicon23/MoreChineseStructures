@@ -451,7 +451,7 @@
             ],
             "offset": 0
           },
-          "biome": "structures_ch:aquatic"
+          "biome": "mcs:aquatic"
         },
         {
           "parameters": {
@@ -691,7 +691,7 @@
             ],
             "offset": 0
           },
-          "biome": "structures_ch:aquatic"
+          "biome": "mcs:aquatic"
         },
         {
           "parameters": {
@@ -1561,7 +1561,7 @@
             ],
             "offset": 0
           },
-          "biome": "structures_ch:aquatic"
+          "biome": "mcs:aquatic"
         },
         {
           "parameters": {
@@ -1591,7 +1591,7 @@
             ],
             "offset": 0
           },
-          "biome": "structures_ch:aquatic"
+          "biome": "mcs:aquatic"
         },
         {
           "parameters": {
@@ -1651,7 +1651,7 @@
             ],
             "offset": 0
           },
-          "biome": "structures_ch:aquatic"
+          "biome": "mcs:aquatic"
         },
         {
           "parameters": {
@@ -2611,7 +2611,7 @@
             ],
             "offset": 0
           },
-          "biome": "structures_ch:aquatic"
+          "biome": "mcs:aquatic"
         },
         {
           "parameters": {
@@ -2641,7 +2641,7 @@
             ],
             "offset": 0
           },
-          "biome": "structures_ch:aquatic"
+          "biome": "mcs:aquatic"
         },
         {
           "parameters": {
@@ -2761,7 +2761,7 @@
             ],
             "offset": 0
           },
-          "biome": "structures_ch:aquatic"
+          "biome": "mcs:aquatic"
         },
         {
           "parameters": {
@@ -3631,7 +3631,7 @@
             ],
             "offset": 0
           },
-          "biome": "structures_ch:aquatic"
+          "biome": "mcs:aquatic"
         },
         {
           "parameters": {
@@ -3661,7 +3661,7 @@
             ],
             "offset": 0
           },
-          "biome": "structures_ch:aquatic"
+          "biome": "mcs:aquatic"
         },
         {
           "parameters": {
@@ -6601,7 +6601,7 @@
             ],
             "offset": 0
           },
-          "biome": "structures_ch:aquatic"
+          "biome": "mcs:aquatic"
         },
         {
           "parameters": {
@@ -6631,7 +6631,7 @@
             ],
             "offset": 0
           },
-          "biome": "structures_ch:aquatic"
+          "biome": "mcs:aquatic"
         },
         {
           "parameters": {
@@ -6901,7 +6901,7 @@
             ],
             "offset": 0
           },
-          "biome": "structures_ch:aquatic"
+          "biome": "mcs:aquatic"
         },
         {
           "parameters": {
@@ -6931,7 +6931,7 @@
             ],
             "offset": 0
           },
-          "biome": "structures_ch:aquatic"
+          "biome": "mcs:aquatic"
         },
         {
           "parameters": {
@@ -7201,7 +7201,7 @@
             ],
             "offset": 0
           },
-          "biome": "structures_ch:aquatic"
+          "biome": "mcs:aquatic"
         },
         {
           "parameters": {
@@ -7531,7 +7531,7 @@
             ],
             "offset": 0
           },
-          "biome": "structures_ch:aquatic"
+          "biome": "mcs:aquatic"
         },
         {
           "parameters": {
@@ -7561,7 +7561,7 @@
             ],
             "offset": 0
           },
-          "biome": "structures_ch:aquatic"
+          "biome": "mcs:aquatic"
         },
         {
           "parameters": {
@@ -7591,7 +7591,7 @@
             ],
             "offset": 0
           },
-          "biome": "structures_ch:aquatic"
+          "biome": "mcs:aquatic"
         },
         {
           "parameters": {
@@ -7651,7 +7651,7 @@
             ],
             "offset": 0
           },
-          "biome": "structures_ch:aquatic"
+          "biome": "mcs:aquatic"
         },
         {
           "parameters": {
@@ -7681,7 +7681,7 @@
             ],
             "offset": 0
           },
-          "biome": "structures_ch:aquatic"
+          "biome": "mcs:aquatic"
         },
         {
           "parameters": {
@@ -9571,7 +9571,7 @@
             ],
             "offset": 0
           },
-          "biome": "structures_ch:aquatic"
+          "biome": "mcs:aquatic"
         },
         {
           "parameters": {
@@ -9781,7 +9781,7 @@
             ],
             "offset": 0
           },
-          "biome": "structures_ch:aquatic"
+          "biome": "mcs:aquatic"
         },
         {
           "parameters": {
@@ -9871,7 +9871,7 @@
             ],
             "offset": 0
           },
-          "biome": "structures_ch:aquatic"
+          "biome": "mcs:aquatic"
         },
         {
           "parameters": {
@@ -10561,7 +10561,7 @@
             ],
             "offset": 0
           },
-          "biome": "structures_ch:aquatic"
+          "biome": "mcs:aquatic"
         },
         {
           "parameters": {
@@ -11791,7 +11791,7 @@
             ],
             "offset": 0
           },
-          "biome": "structures_ch:snowy_megaplains"
+          "biome": "mcs:snowy_megaplains"
         },
         {
           "parameters": {
@@ -11821,7 +11821,7 @@
             ],
             "offset": 0
           },
-          "biome": "structures_ch:megaplains"
+          "biome": "mcs:megaplains"
         },
         {
           "parameters": {

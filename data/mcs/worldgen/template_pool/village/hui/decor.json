@@ -1,0 +1,28 @@
+{
+    "name": "mcs:village/hui/decor",
+    "elements": [
+      {
+        "element": {
+          "element_type": "minecraft:legacy_single_pool_element",
+          "location": "mcs:village/hui/plains_tree_1",
+          "processors": {
+            "processors": []
+          },
+          "projection": "rigid"
+        },
+        "weight": 1
+      },
+      {
+        "element": {
+          "element_type": "minecraft:legacy_single_pool_element",
+          "location": "mcs:village/hui/plains_lamp_1",
+          "processors": {
+            "processors": []
+          },
+          "projection": "rigid"
+        },
+        "weight": 2
+      }
+    ],
+    "fallback": "minecraft:empty"
+  }
