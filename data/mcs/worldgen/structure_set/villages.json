@@ -3,6 +3,10 @@
       {
         "structure": "mcs:village_hui",
         "weight": 1
+      },
+      {
+        "structure": "mcs:village_yurt",
+        "weight": 1
       }
     ],
     "placement": {

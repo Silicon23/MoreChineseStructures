@@ -1,0 +1,42 @@
+{
+    "name": "mcs:village/yurt/streets",
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "weight": 3,
+            "element": {
+                "element_type": "minecraft:legacy_single_pool_element",
+                "projection": "rigid",
+                "processors": "minecraft:empty",
+                "location": "mcs:village/yurt/streets/main"
+            }
+        },
+        {
+            "weight": 2,
+            "element": {
+                "element_type": "legacy_single_pool_element",
+                "projection": "rigid",
+                "processors": "minecraft:empty",
+                "location": "mcs:village/yurt/streets/short"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:legacy_single_pool_element",
+                "projection": "rigid",
+                "processors": "minecraft:empty",
+                "location": "mcs:village/yurt/streets/crossroad"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "legacy_single_pool_element",
+                "projection": "rigid",
+                "processors": "minecraft:empty",
+                "location": "mcs:village/yurt/streets/corner"
+            }
+        }
+    ]
+}

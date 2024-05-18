@@ -15,8 +15,8 @@
             "max_exclusive": 2.52,
             "when_in_range": {
                 "type": "y_clamped_gradient",
-                "from_y": 70,
-                "to_y": 71,
+                "from_y": 63,
+                "to_y": 63,
                 "from_value": 1.0,
                 "to_value": -1.0
             },
