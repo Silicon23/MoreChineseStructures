@@ -7,12 +7,20 @@
       {
         "structure": "mcs:village_yurt",
         "weight": 1
+      },
+      {
+        "structure": "mcs:grotto",
+        "weight": 1
+      },
+      {
+        "structure": "mcs:village_ganlan",
+        "weight": 1
       }
     ],
     "placement": {
       "salt": 183253140,
       "type": "minecraft:random_spread",
-      "spacing": 30,
-      "separation": 2
+      "spacing": 34,
+      "separation": 8
     }
-  }
+}

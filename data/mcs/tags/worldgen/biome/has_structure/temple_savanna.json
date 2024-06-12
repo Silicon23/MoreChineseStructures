@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "values": [
+      "#minecraft:is_savanna",
+      "minecraft:sunflower_plains"
+    ]
+  }

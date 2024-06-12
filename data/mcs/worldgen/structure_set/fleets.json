@@ -1,0 +1,14 @@
+{
+    "structures": [
+      {
+        "structure": "mcs:fleet",
+        "weight": 1
+      }
+    ],
+    "placement": {
+      "salt": 245872098,
+      "type": "minecraft:random_spread",
+      "spacing": 60,
+      "separation": 10
+    }
+}

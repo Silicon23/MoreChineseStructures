@@ -1,0 +1,36 @@
+{
+    "name": "mcs:village/grotto/buildings",
+    "fallback": "minecraft:empty",
+    "elements": [
+      {
+        "weight": 1,
+        "element": {
+          "location": "mcs:village/grotto/buildings/yaodong_1",
+          "processors": "minecraft:empty",
+          "projection": "rigid",
+          "terrain_adaptation": "bury",
+          "element_type": "minecraft:single_pool_element"
+        }
+      },
+      {
+        "weight": 1,
+        "element": {
+          "location": "mcs:village/grotto/buildings/yaodong_2",
+          "processors": "minecraft:empty",
+          "projection": "rigid",
+          "terrain_adaptation": "bury",
+          "element_type": "minecraft:single_pool_element"
+        }
+      },
+      {
+        "weight": 1,
+        "element": {
+          "location": "mcs:village/grotto/buildings/yaodong_3",
+          "processors": "minecraft:empty",
+          "projection": "rigid",
+          "terrain_adaptation": "bury",
+          "element_type": "minecraft:single_pool_element"
+        }
+      }
+    ]
+  }

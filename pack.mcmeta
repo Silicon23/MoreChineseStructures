@@ -1,6 +1,6 @@
 {
     "pack": {
-        "pack_format": 26,
-        "description": "A datapack that adds custom traditional structures and lore into minecraft 1.20.4"
+        "pack_format": 48,
+        "description": "A datapack that adds custom traditional structures and lore into minecraft 1.21 pre release 3"
     }
 }

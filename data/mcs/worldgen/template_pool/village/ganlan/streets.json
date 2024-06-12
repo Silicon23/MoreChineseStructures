@@ -1,0 +1,51 @@
+{
+    "name":"mcs:village/ganlan/streets",
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:legacy_single_pool_element",
+                "projection": "terrain_matching",
+                "processors": "minecraft:empty",
+                "location": "mcs:village/ganlan/streets/ganlan_street_corner"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:legacy_single_pool_element",
+                "projection": "terrain_matching",
+                "processors": "minecraft:empty",
+                "location": "mcs:village/ganlan/streets/ganlan_street_long"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:legacy_single_pool_element",
+                "projection": "terrain_matching",
+                "processors": "minecraft:empty",
+                "location": "mcs:village/ganlan/streets/ganlan_street_short"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:legacy_single_pool_element",
+                "projection": "terrain_matching",
+                "processors": "minecraft:empty",
+                "location": "mcs:village/ganlan/streets/ganlan_street_crossroad"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:legacy_single_pool_element",
+                "projection": "terrain_matching",
+                "processors": "minecraft:empty",
+                "location": "mcs:village/ganlan/streets/ganlan_street_t_cross"
+            }
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "structures": [
+      {
+        "structure": "mcs:temple_cherry",
+        "weight": 1
+      },
+      {
+        "structure": "mcs:temple_desert",
+        "weight": 1
+      },
+      {
+        "structure": "mcs:temple_forest",
+        "weight": 1
+      },
+      {
+        "structure": "mcs:temple_hills",
+        "weight": 1
+      },
+      {
+        "structure": "mcs:temple_megaplains",
+        "weight": 1
+      },
+      {
+        "structure": "mcs:temple_plains",
+        "weight": 1
+      },
+      {
+        "structure": "mcs:temple_savanna",
+        "weight": 1
+      },
+      {
+        "structure": "mcs:shrine",
+        "weight": 1
+      }
+    ],
+    "placement": {
+      "salt": 246564371,
+      "type": "minecraft:random_spread",
+      "spacing": 30,
+      "separation": 2
+    }
+  }

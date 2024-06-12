@@ -1,0 +1,15 @@
+{
+    "name": "mcs:temple/temple_forest",
+    "fallback": "minecraft:empty",
+    "elements": [
+      {
+        "weight": 1,
+        "element": {
+          "location": "mcs:temple/temple_forest",
+          "processors": "minecraft:empty",
+          "projection": "rigid",
+          "element_type": "minecraft:legacy_single_pool_element"
+        }
+      }
+    ]
+  }
