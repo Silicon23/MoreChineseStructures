@@ -31,6 +31,26 @@
           "terrain_adaptation": "bury",
           "element_type": "minecraft:single_pool_element"
         }
+      },
+      {
+        "weight": 1,
+        "element": {
+          "location": "mcs:village/grotto/buildings/yaodong_4",
+          "processors": "minecraft:empty",
+          "projection": "rigid",
+          "terrain_adaptation": "bury",
+          "element_type": "minecraft:single_pool_element"
+        }
+      },
+      {
+        "weight": 1,
+        "element": {
+          "location": "mcs:village/grotto/buildings/yaodong_5",
+          "processors": "minecraft:empty",
+          "projection": "rigid",
+          "terrain_adaptation": "bury",
+          "element_type": "minecraft:single_pool_element"
+        }
       }
     ]
   }
