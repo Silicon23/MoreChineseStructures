@@ -3,55 +3,75 @@
     "elements": [
       {
         "element": {
-          "element_type": "minecraft:legacy_single_pool_element",
+          "element_type": "minecraft:single_pool_element",
           "location": "mcs:village/hui/plains_tree_1",
-          "processors": {
-            "processors": []
-          },
+          "processors": "minecraft:empty",
           "projection": "rigid"
         },
-        "weight": 2
+        "weight": 4
       },
       {
         "element": {
-          "element_type": "minecraft:legacy_single_pool_element",
+          "element_type": "minecraft:single_pool_element",
           "location": "mcs:village/hui/plains_lamp_1",
-          "processors": {
-            "processors": []
-          },
+          "processors": "minecraft:empty",
           "projection": "rigid"
         },
-        "weight": 2
+        "weight": 4
       },
       {
+        "weight": 1,
         "element": {
-          "element_type": "minecraft:feature_pool_element",
-          "feature": "mcs:azalea",
-          "projection": "rigid"
-        },
-        "weight": 1
+          "location": "mcs:village/hui/hui_flower_1",
+          "processors": "minecraft:empty",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        }
       },
       {
+        "weight": 1,
         "element": {
-          "element_type": "minecraft:feature_pool_element",
-          "feature": "minecraft:flower_plain",
-          "projection": "rigid"
-        },
-        "weight": 1
+          "location": "mcs:village/hui/hui_flower_2",
+          "processors": "minecraft:empty",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        }
       },
       {
+        "weight": 1,
         "element": {
-          "element_type": "minecraft:feature_pool_element",
-          "feature": "minecraft:pile_hay",
-          "projection": "rigid"
-        },
-        "weight": 1
+          "location": "mcs:village/hui/hui_flower_3",
+          "processors": "minecraft:empty",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        }
       },
       {
+        "weight": 1,
         "element": {
-          "element_type": "minecraft:empty_pool_element"
-        },
-        "weight": 2
+          "location": "mcs:village/hui/hui_flower_4",
+          "processors": "minecraft:empty",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        }
+      },
+      {
+        "weight": 3,
+        "element": {
+          "location": "mcs:village/hui/hui_pond_1",
+          "processors": "minecraft:empty",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        }
+      },
+      {
+        "weight": 3,
+        "element": {
+          "location": "mcs:village/hui/hui_pond_2",
+          "processors": "minecraft:empty",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        }
       }
     ],
     "fallback": "minecraft:empty"
