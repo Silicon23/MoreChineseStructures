@@ -1,0 +1,14 @@
+{
+    "structures": [
+        {
+          "structure": "mcs:castle",
+          "weight": 1
+        }
+      ],
+      "placement": {
+        "salt": 91230342,
+        "type": "minecraft:random_spread",
+        "spacing": 40,
+        "separation": 10
+      }
+    }
