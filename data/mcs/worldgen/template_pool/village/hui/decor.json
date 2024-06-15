@@ -56,7 +56,7 @@
         }
       },
       {
-        "weight": 3,
+        "weight": 4,
         "element": {
           "location": "mcs:village/hui/hui_pond_1",
           "processors": "minecraft:empty",
@@ -65,7 +65,7 @@
         }
       },
       {
-        "weight": 3,
+        "weight": 4,
         "element": {
           "location": "mcs:village/hui/hui_pond_2",
           "processors": "minecraft:empty",
