@@ -17,7 +17,7 @@
           "processors": "minecraft:empty",
           "projection": "rigid"
         },
-        "weight": 4
+        "weight": 2
       },
       {
         "weight": 1,
@@ -56,7 +56,7 @@
         }
       },
       {
-        "weight": 4,
+        "weight": 8,
         "element": {
           "location": "mcs:village/hui/hui_pond_1",
           "processors": "minecraft:empty",
@@ -65,7 +65,7 @@
         }
       },
       {
-        "weight": 4,
+        "weight": 8,
         "element": {
           "location": "mcs:village/hui/hui_pond_2",
           "processors": "minecraft:empty",

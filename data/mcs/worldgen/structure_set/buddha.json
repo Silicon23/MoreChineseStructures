@@ -1,0 +1,15 @@
+{
+    "structures": [
+        {
+          "structure": "mcs:buddha_jungle",
+          "weight": 1
+        }
+      ],
+      "placement": {
+        "salt": 23189691387,
+        "type": "minecraft:random_spread",
+        "spread_type": "triangular",
+        "spacing": 80,
+        "separation": 20
+      }
+    }
