@@ -1,0 +1,11 @@
+{
+    "replace": false,
+    "values": [
+      "minecraft:forest",
+      "minecraft:meadow",
+      "minecraft:plains",
+      "minecraft:sunflower_plains",
+      "mcs:megaplains",
+      "#minecraft:is_ocean"
+    ]
+  }

@@ -3,12 +3,20 @@
         {
           "structure": "mcs:castle",
           "weight": 1
+        },
+        {
+          "structure": "mcs:sky_palace",
+          "weight": 1
+        },
+        {
+          "structure": "mcs:tower",
+          "weight": 1
         }
       ],
       "placement": {
-        "salt": 91230342,
+        "salt": 5439532,
         "type": "minecraft:random_spread",
-        "spacing": 40,
-        "separation": 10
+        "spacing": 100,
+        "separation": 80
       }
     }

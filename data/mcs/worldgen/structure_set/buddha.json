@@ -3,6 +3,10 @@
         {
           "structure": "mcs:buddha_jungle",
           "weight": 1
+        },
+        {
+            "structure": "mcs:buddha_desert",
+            "weight": 1
         }
       ],
       "placement": {

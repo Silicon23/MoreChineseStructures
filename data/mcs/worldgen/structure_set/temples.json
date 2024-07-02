@@ -1,6 +1,6 @@
 {
   "exclusion_zone": {
-        "chunk_count": 5,
+        "chunk_count": 10,
         "other_set": "mcs:villages"
       },
   "structures": [
@@ -34,6 +34,14 @@
       },
       {
         "structure": "mcs:shrine",
+        "weight": 1
+      },
+      {
+        "structure": "mcs:temple_snow",
+        "weight": 1
+      },
+      {
+        "structure": "mcs:temple_snowyplains",
         "weight": 1
       }
     ],
