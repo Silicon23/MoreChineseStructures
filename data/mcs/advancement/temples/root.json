@@ -112,6 +112,54 @@
           ]
         },
         "trigger": "minecraft:location"
+      },
+      "snow": {
+        "conditions": {
+          "player": [
+            {
+              "condition": "minecraft:entity_properties",
+              "entity": "this",
+              "predicate": {
+                "location": {
+                  "structures": "mcs:temple_snow"
+                }
+              }
+            }
+          ]
+        },
+        "trigger": "minecraft:location"
+      },
+      "snowyplains": {
+        "conditions": {
+          "player": [
+            {
+              "condition": "minecraft:entity_properties",
+              "entity": "this",
+              "predicate": {
+                "location": {
+                  "structures": "mcs:temple_snowyplains"
+                }
+              }
+            }
+          ]
+        },
+        "trigger": "minecraft:location"
+      },
+      "shrine": {
+        "conditions": {
+          "player": [
+            {
+              "condition": "minecraft:entity_properties",
+              "entity": "this",
+              "predicate": {
+                "location": {
+                  "structures": "mcs:shrine"
+                }
+              }
+            }
+          ]
+        },
+        "trigger": "minecraft:location"
       }
     },
     "display": {
@@ -119,7 +167,7 @@
         "id": "minecraft:lantern"
       },
       "title": "All Temples",
-      "description": "A majestic assembly of ancient temples, their ornate roofs and serene courtyards resonating with the timeless harmony of cultural heritage and spiritual reverence.",
+      "description": "A majestic cluster of temples resonating with cultural and spiritual harmony.",
       "frame": "challenge",
       "announce_to_chat": true
     },
@@ -144,10 +192,15 @@
       ],
       [
         "savanna"
+      ],
+      [
+        "snow"
+      ],
+      [
+        "snowyplains"
       ]
     ],
     "rewards": {
       "experience": 500
-    },
-    "sends_telemetry_event": true
+    }
   }

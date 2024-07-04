@@ -1,10 +1,10 @@
 {
     "display": {
       "icon": {
-        "id": "minecraft:smooth_quartz"
+        "id": "minecraft:mangrove_staircase"
       },
-      "title": "The Yurt",
-      "description": "A felt and wood haven echoing nomadic traditions in vast landscapes.",
+      "title": "The Tower",
+      "description": "A towering architectural marvel, soaring into the sky, embodying grandeur and historical significance.",
       "frame": "task",
       "show_toast": true,
       "announce_to_chat": true
@@ -20,7 +20,7 @@
               "entity": "this",
               "predicate": {
                 "location": {
-                  "structures": "mcs:village_yurt"
+                  "structures": "mcs:tower"
                 }
               }
             }

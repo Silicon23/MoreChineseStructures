@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:jigsaw",
+    "start_pool": "mcs:temple/temple_snowyplains",
+    "size": 1,
+    "max_distance_from_center": 116,
+    "biomes": "#mcs:has_structure/temple_snowyplains",
+    "step": "surface_structures",
+    "liquid_settings": "ignore_waterlogging",
+    "start_height": {
+      "absolute": 1
+    },
+    "project_start_to_heightmap": "WORLD_SURFACE_WG",
+    "use_expansion_hack": false,
+    "terrain_adaptation": "beard_thin",
+    "spawn_overrides": {
+    }
+  }

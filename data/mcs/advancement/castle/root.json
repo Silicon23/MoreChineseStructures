@@ -4,7 +4,7 @@
         "id": "minecraft:diorite_wall"
       },
       "title": "The Castle",
-      "description": "A grand fortress of ancient stone and timeless elegance, with towering walls and intricate architecture, standing as a testament to historical strength and imperial grandeur.",
+      "description":  "A grand stone fortress with intricate architecture and historical strength.",
       "frame": "task",
       "show_toast": true,
       "announce_to_chat": true

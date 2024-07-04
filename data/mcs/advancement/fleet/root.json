@@ -4,7 +4,7 @@
         "id": "minecraft:oak_boat"
       },
       "title": "The Fleet",
-      "description": "A formidable and unstoppable armada, bristling with unmatched firepower, dominating the seas and skies with precision and might.",
+      "description": "A formidable armada with cutting-edge technology and unmatched firepower.",
       "frame": "task",
       "show_toast": true,
       "announce_to_chat": true

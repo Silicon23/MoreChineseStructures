@@ -4,7 +4,7 @@
         "id": "minecraft:grass_block"
       },
       "title": "Sky Palace",
-      "description": "A celestial marvel of shimmering jade and gold, perched among the clouds, radiating ethereal beauty and divine tranquility.",
+      "description": "A celestial palace of wood and gold radiating ethereal beauty.",
       "frame": "task",
       "show_toast": true,
       "announce_to_chat": true

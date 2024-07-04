@@ -4,7 +4,7 @@
         "id": "minecraft:mud_bricks"
       },
       "title": "Grotto",
-      "description": "An ancient sanctuary carved into stone, adorned with intricate carvings and serene statues, echoing the whispers of history and spiritual devotion.",
+      "description": "An ancient stone sanctuary with intricate carvings and statues.",
       "frame": "task",
       "show_toast": true,
       "announce_to_chat": true

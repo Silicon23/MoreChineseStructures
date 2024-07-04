@@ -4,7 +4,7 @@
         "id": "minecraft:stone"
       },
       "title": "The Old King",
-      "description": "A relentless and visionary conqueror, whose unyielding leadership and strategic genius forged one of history's largest empires, leaving an indelible mark on the world.",
+      "description":  "A visionary conqueror whose leadership forged a vast empire.",
       "frame": "challenge",
       "show_toast": true,
       "announce_to_chat": true
@@ -14,15 +14,13 @@
       "requirement": {
         "trigger": "minecraft:player_killed_entity",
         "conditions": {
-          "entity": [
-            {
-              "condition": "minecraft:entity_properties",
-              "entity": "this",
-              "predicate": {
-                "type": "mcs:genghis_khan"
-              }
+          "entity": {
+            "type": "minecraft:skeleton",
+            "nbt": "{Tags:[\"genghis_khan\"]}",
+            "location": {
+              "biome": "mcs:village_yurt"
             }
-          ]
+          }
         }
       }
     }

@@ -1,0 +1,25 @@
+{
+    "display": {
+      "icon": {
+        "id": "minecraft:tnt"
+      },
+      "title": "Defuse the Bomb",
+      "description":  "Avoid a very sneaky trap",
+      "frame": "task",
+      "show_toast": true,
+      "announce_to_chat": true
+    },
+    "parent": "mcs:buddha/root",
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:player_killed_entity",
+        "conditions": {
+          "entity": {
+            "type": "minecraft:chicken",
+            "nbt": "{Tags:[\"explosive_chicken\"]}"
+          }
+        }
+      }
+    }
+  }
+  

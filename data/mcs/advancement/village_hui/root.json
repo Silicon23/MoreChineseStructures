@@ -4,7 +4,7 @@
         "id": "minecraft:blackstone_stairs"
       },
       "title": "Hui Village",
-      "description": "A picturesque enclave of white-washed walls and grey-tiled roofs, steeped in rich heritage and nestled among lush, verdant landscapes, reflecting centuries of cultural harmony.",
+      "description": "A picturesque enclave of white walls and grey roofs amid lush landscapes.",
       "frame": "task",
       "show_toast": true,
       "announce_to_chat": true

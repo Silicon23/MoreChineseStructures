@@ -4,14 +4,14 @@
         "id": "minecraft:cobbled_deepslate_wall"
       },
       "title": "The Buddha",
-      "description": "A serene and majestic figure, exuding profound wisdom and compassion, symbolizing enlightenment and inner peace amidst tranquil surroundings.",
+      "description": "A serene figure symbolizing wisdom, compassion, and enlightenment.",
       "frame": "task",
       "show_toast": true,
       "announce_to_chat": true
     },
     "parent": "mcs:root",
     "criteria": {
-      "requirement": {
+      "desert": {
         "trigger": "minecraft:location",
         "conditions": {
           "player": [
@@ -20,13 +20,35 @@
               "entity": "this",
               "predicate": {
                 "location": {
-                  "structures": "mcs:buddha"
+                  "structures": "mcs:buddha_desert"
+                }
+              }
+            }
+          ]
+        }
+      },
+      "jungle": {
+        "trigger": "minecraft:location",
+        "conditions": {
+          "player": [
+            {
+              "condition": "minecraft:entity_properties",
+              "entity": "this",
+              "predicate": {
+                "location": {
+                  "structures": "mcs:buddha_jungle"
                 }
               }
             }
           ]
         }
       }
-    }
+    },
+    "requirements": [
+      [
+        "desert",
+        "jungle"
+      ]
+    ]
   }
   
