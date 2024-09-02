@@ -21,6 +21,10 @@
       "salt": 183253140,
       "type": "minecraft:random_spread",
       "spacing": 28,
-      "separation": 8
+      "separation": 8,
+      "exclusion_zone": {
+        "chunk_count": 16,
+        "other_set": "mcs:buddha"
+      }
     }
 }

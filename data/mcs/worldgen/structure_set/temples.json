@@ -1,8 +1,4 @@
 {
-  "exclusion_zone": {
-        "chunk_count": 10,
-        "other_set": "mcs:villages"
-      },
   "structures": [
       {
         "structure": "mcs:temple_cherry",
@@ -49,6 +45,10 @@
       "salt": 246564371,
       "type": "minecraft:random_spread",
       "spacing": 30,
-      "separation": 20
+      "separation": 20,
+      "exclusion_zone": {
+        "chunk_count": 16,
+        "other_set": "mcs:boss_rooms"
+      }
     }
   }
