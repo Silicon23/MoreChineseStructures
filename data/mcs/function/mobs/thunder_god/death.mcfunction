@@ -1,2 +1,2 @@
 weather clear
-schedule clear mcs:mobs/genghis_khan/update
+schedule clear mcs:mobs/thunder_god/update
