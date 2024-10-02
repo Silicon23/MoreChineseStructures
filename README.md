@@ -1,5 +1,7 @@
 # MoreChineseStructures pack
 
+<img src='./images/MoreChineseStructures.jpg'>
+
 MoreChineseStructures is a Minecraft datapack that enriches your gameplay experience by introducing a variety of traditional Chinese structures complete with unique gameplay elements to the world of Minecraft.
 
 ## Structures
