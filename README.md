@@ -18,7 +18,8 @@ MoreChineseStructures is a Minecraft datapack that enriches your gameplay experi
 - Budda statues inspired by the Leshan Giant Buddha
 
 ### Other things
-- various different little temples scattered around the world
+- various different temples scattered around the world
+- Zheng He style fleet ships across the oceans.
 
 ## Biomes
 - Megaplains, where the yurts will be located
