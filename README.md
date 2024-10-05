@@ -24,3 +24,5 @@ MoreChineseStructures is a Minecraft datapack that enriches your gameplay experi
 ## Biomes
 - Megaplains, where the yurts will be located
 
+---
+If you are experiencing compatibility issues between this datapack and other mods or datapacks, it is likely due to the custom terrain generation. You can install the [streamlined version](https://github.com/Silicon23/mcs-streamlined) of this datapack, which removes the custom biome and terrain generation features.
