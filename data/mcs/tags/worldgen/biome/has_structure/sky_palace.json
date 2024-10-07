@@ -5,7 +5,6 @@
       "minecraft:meadow",
       "minecraft:plains",
       "minecraft:sunflower_plains",
-      "mcs:megaplains",
       "#minecraft:is_ocean"
     ]
   }

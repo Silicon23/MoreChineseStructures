@@ -1,7 +1,9 @@
 {
     "replace": false,
     "values": [
-      "mcs:megaplains",
-      "mcs:snowy_megaplains"
+      "minecraft:plains",
+      "minecraft:snowy_plains",
+      "minecraft:sunflower_plains",
+      "minecraft:meadow"
     ]
   }
